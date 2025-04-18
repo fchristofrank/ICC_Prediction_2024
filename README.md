@@ -72,9 +72,7 @@ pip install -r requirements.txt
 - Create a web interface for making predictions
 
 ## License
-
-[Insert your chosen license here]
+MIT 
 
 ## Contact
-
-[Your contact information]
+Christo Frank
